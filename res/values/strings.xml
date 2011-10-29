@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, DigipostActivity!</string>
+    <string name="app_name">Digipost</string>
+    <string name="archive">Arkiv</string>
+    <string name="kitchenTable">Kjøkkenbenk</string>
+    <string name="mailbox">Postboks</string>
+
+    
+</resources>
