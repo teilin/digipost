@@ -1,5 +1,6 @@
-package net.teilin.hacathon24;
+package net.teilin.hackathon24;
 
+import net.teilin.hacathon24.R;
 import android.app.Activity;
 import android.os.Bundle;
 
