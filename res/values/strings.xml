@@ -6,6 +6,8 @@
     <string name="archive">Arkiv</string>
     <string name="kitchenTable">Kjøkkenbenk</string>
     <string name="mailbox">Postboks</string>
-
+	<string name="user_pid">Personummer</string>
+    <string name="user_password">Passord</string>
+    <string name="login_button_text">"Logg på "</string>
     
 </resources>
