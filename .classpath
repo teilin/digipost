@@ -5,5 +5,7 @@
 	<classpathentry kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK"/>
 	<classpathentry kind="con" path="com.android.ide.eclipse.adt.LIBRARIES"/>
 	<classpathentry kind="lib" path="lib/pdfbox-app-1.6.0.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/3"/>
+	<classpathentry kind="con" path="no.uib.ii.jaxt.axioms.AXIOM_CONTAINER/default"/>
 	<classpathentry kind="output" path="bin/classes"/>
 </classpath>

@@ -3,6 +3,7 @@ package net.teilin.hackathon24.lib;
 public class DigipostUser {
 	private String PID;
 	private String password;
+	
 	public DigipostUser(String PID, String password){
 		this.PID = PID;
 		this.password = password;
